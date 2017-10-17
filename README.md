@@ -6,7 +6,7 @@ These are the materials to be shown at the October 2017 PhenoMeNal EBI and EMN (
 
 Duration: 15 minutes
 
-Slides available [here]().
+Slides available [here](https://drive.google.com/open?id=0B3GjpBpPCNBceFBUVTgyOWVrclk).
 
 ## PhenoMeNal Portal demonstration
 
