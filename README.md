@@ -1,6 +1,6 @@
 # PhenoMeNal Webinar
 
-These are the materials to be shown at the October 2017 PhenoMeNal webinar.
+These are the materials to be shown at the October 2017 PhenoMeNal EBI and EMN (Metabolomics Society) webinars.
 
 ## Introduction to PhenoMeNal
 
